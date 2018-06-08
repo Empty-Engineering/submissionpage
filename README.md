@@ -2,7 +2,7 @@
   h6{
 font-size: 40%;
 }
-  header{
+  img{
   height: 25%;
   width:25%;
   align:left;

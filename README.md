@@ -2,10 +2,15 @@
   h6{
 font-size: 40%;
 }
+  header{
+  height: 50%;
+  width:50%;
+  align:left;
+  }
   </style>
   <header>
   <a href="https://empty-engineering.github.io/TTMS-Cambridge/">
-  <img src="https://cdn5.vectorstock.com/i/1000x1000/37/29/home-sign-icon-main-page-button-navigation-vector-2873729.jpg" alt="Home Page">
+  <img src="https://t3.ftcdn.net/jpg/01/87/04/66/240_F_187046604_6LqOdBrk1ZliLA49FTsK6WmuLnA3DLl9.jpg" alt="Home Page">
   </a>
   </header>
 <p> This is just a joke.</p>

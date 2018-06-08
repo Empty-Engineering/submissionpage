@@ -3,8 +3,8 @@
 font-size: 40%;
 }
   header{
-  height: 50%;
-  width:50%;
+  height: 25%;
+  width:25%;
   align:left;
   }
   </style>

@@ -1,8 +1,10 @@
-h6{
+<style>
+  h6{
 font-size: 40%;
 }
+  </style>
 <p> This is just a joke. 
-""""""""""""""""""""""""""""
+
 
 
 
